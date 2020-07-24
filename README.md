@@ -1,6 +1,6 @@
 ## Ethereum smart contract
 
-The smart contract provided here was written using Solidity v0.6.0. The code was developed with three nodes in the network. The smart contract is deployed to the Ethereum network using the Truffle suite.
+The smart contract provided here was written using Solidity v0.6.0. The code was developed for three nodes in the network. The smart contract is deployed to the Ethereum network using the Truffle suite.
 
 Step 1.
 
