@@ -1,5 +1,4 @@
-# Ethereum
-Smart Contract Code 
+## Smart Contract Code 
 
 If you find this code useful please consider citing this work with the following .bib entry
 
