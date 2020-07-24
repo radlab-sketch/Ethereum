@@ -1,11 +1,3 @@
-## Smart Contract Code 
-
-If you find this code useful please consider citing this work with the following .bib entry
-
-
-
-
-
 ## Ethereum smart contract
 
 The smart contract provided here was written using Solidity v0.6.0. The code was developed with three nodes in the network. The smart contract is deployed to the Ethereum network using the Truffle suite.
@@ -17,3 +9,7 @@ The address of the Ethereum accounts for each member of the private network shou
 Step 2.
 
 Deploy the smart contract using your preferred client such as MetaMask, Geth, or Truffle.
+
+Installation instructions for the Truffule suite can be found in https://www.trufflesuite.com/docs/truffle/getting-started/installation
+
+
