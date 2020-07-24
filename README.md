@@ -12,7 +12,7 @@ The smart contract provided here was written using Solidity v0.6.0. The code was
 
 Step 1.
 
-The address of the Ethereum accounts for each of the nodes are stored in three string variables, ```dataA```, ```dataB```, and ```dataC```. 
+The address of the Ethereum accounts for each member of the private network should be stored in these three string variables, ```dataA```, ```dataB```, and ```dataC```. This makes up the access control list for the three members in the network.
 
 Step 2.
 
