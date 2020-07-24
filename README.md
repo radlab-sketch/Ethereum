@@ -10,6 +10,6 @@ Step 2.
 
 Deploy the smart contract using your preferred client such as MetaMask, Geth, or Truffle.
 
-Installation instructions for the Truffule suite can be found in https://www.trufflesuite.com/docs/truffle/getting-started/installation
+Installation instructions for the Truffle suite can be found in https://www.trufflesuite.com/docs/truffle/getting-started/installation
 
 
